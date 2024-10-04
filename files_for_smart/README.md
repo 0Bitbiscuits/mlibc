@@ -2,7 +2,7 @@
 
 在`rt-thread/components/libc/compilers/common/include/sys/signale.h`文件中进行以下更改：
 
-![image-20240926173541770](./picture/image-20240926173541770.png)
+![image-20241004204730392](./picture\image-20241004204730392.png)
 
 ### 在RT-Smart中使用mlibc时需要加入进行以下更改
 
